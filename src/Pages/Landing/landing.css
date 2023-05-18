@@ -1,0 +1,13 @@
+.landing-container{
+    display: flex;
+}
+.sidenav{
+    width: 20%;
+    background-color: #efefef;
+    height: 100vh;
+}
+.content-container{
+    width: 80%;
+    background-color: aqua;
+    height: 100vh;
+}
