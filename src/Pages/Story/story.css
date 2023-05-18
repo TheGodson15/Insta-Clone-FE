@@ -1,0 +1,17 @@
+.heading{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.stories{
+    display: flex;
+
+    overflow: scroll;
+    width: 100%;
+}
+.story{
+    margin-left: 20px;
+    margin-right: 0;
+    flex-shrink: 0;
+}
